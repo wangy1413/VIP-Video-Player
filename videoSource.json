@@ -1,0 +1,226 @@
+{
+  "platform": [
+    {
+      "name": "CCTV直播",
+      "url": "https://tv.cctv.com/live/cctv5/"
+    },
+    {
+      "name": "腾讯视频",
+      "url": "https://v.qq.com/"
+    },
+    {
+      "name": "优酷",
+      "url": "https://www.youku.com/"
+    },
+    {
+      "name": "哔哩哔哩",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "name": "土豆",
+      "url": "https://www.tudou.com/"
+    },
+    {
+      "name": "搜狐",
+      "url": "https://www.sohu.com/"
+    },
+    {
+      "name": "爱奇艺",
+      "url": "https://m.iqiyi.com/"
+    },
+    {
+      "name": "AcFun",
+      "url": "https://www.acfun.cn/"
+    },
+    {
+      "name": "PPTY",
+      "url": "https://www.pptv.com/"
+    },
+    {
+      "name": "音悦网",
+      "url": "https://www.yinyuetai.com/"
+    },
+    {
+      "name": "华数TV",
+      "url": "https://www.wasu.cn/"
+    },
+    {
+      "name": "新视觉影院",
+      "url": "http://www.yy3080.com/"
+    }
+  ],
+  "crackSource": [
+    {
+      "name": "纯净1",
+      "url": "https://z1.m1907.cn/?jx=",
+      "t": "m"
+    },
+    {
+      "name": "B站1",
+      "url": "https://vip.parwix.com:4433/player/?url=",
+      "t": "m"
+    },
+    {
+      "name": "爱豆",
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "name": "冰豆",
+      "url": "https://api.qianqi.net/vip/?url="
+    },
+    {
+      "name": "百域",
+      "url": "https://jx.618g.com/?url="
+    },
+    {
+      "name": "CK",
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "CHok",
+      "url": "https://www.gai4.com/?url="
+    },
+    {
+      "name": "ckmov",
+      "url": "https://www.ckmov.vip/api.php?url="
+    },
+    {
+      "name": "大幕",
+      "url": "https://jx.52damu.com/dmjx/jiexi.php?url="
+    },
+    {
+      "name": "H8",
+      "url": "https://www.h8jx.com/jiexi.php?url="
+    },
+    {
+      "name": "江湖",
+      "url": "https://api.jhdyw.vip/?url=",
+      "t": "m"
+    },
+    {
+      "name": "解析",
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url="
+    },
+    {
+      "name": "解析la",
+      "url": "https://api.jiexi.la/?url="
+    },
+    {
+      "name": "九八",
+      "url": "https://jx.youyitv.com/?url="
+    },
+    {
+      "name": "LE",
+      "url": "https://lecurl.cn/?url="
+    },
+    {
+      "name": "老板",
+      "url": "https://vip.laobandq.com/jiexi.php?url="
+    },
+    {
+      "name": "乐多",
+      "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=",
+      "t": "m"
+    },
+    {
+      "name": "MAO",
+      "url": "https://www.mtosz.com/m3u8.php?url="
+    },
+    {
+      "name": "M3U8",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "MUTV",
+      "url": "https://jiexi.janan.net/jiexi/?url="
+    },
+    {
+      "name": "诺诺",
+      "url": "https://www.ckmov.com/?url="
+    },
+    {
+      "name": "诺讯",
+      "url": "https://www.nxflv.com/?url="
+    },
+    {
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "PM",
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
+    },
+    {
+      "name": "盘古",
+      "url": "https://www.pangujiexi.cc/jiexi.php?url="
+    },
+    {
+      "name": "奇米",
+      "url": "https://qimihe.com/?url="
+    },
+    {
+      "name": "全民",
+      "url": "https://jx.quanmingjiexi.com/?url="
+    },
+    {
+      "name": "RDHK",
+      "url": "https://jx.rdhk.net/?v=",
+      "t": "m"
+    },
+    {
+      "name": "思云",
+      "url": "https://jx.ap2p.cn/?url="
+    },
+    {
+      "name": "思古3",
+      "url": "https://jsap.attakids.com/?url="
+    },
+    {
+      "name": "淘电影",
+      "url": "https://jx.vodjx.top/vip/?url="
+    },
+    {
+      "name": "听乐",
+      "url": "https://jx.dj6u.com/?url=",
+      "t": "m"
+    },
+    {
+      "name": "维多",
+      "url": "https://jx.ivito.cn/?url="
+    },
+    {
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "小蒋",
+      "url": "https://www.kpezp.cn/jlexi.php?url="
+    },
+    {
+      "name": "云端",
+      "url": "https://sb.5gseo.net/?url="
+    },
+    {
+      "name": "云析",
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "0523",
+      "url": "https://go.yh0523.cn/y.cy?url="
+    },
+    {
+      "name": "17云",
+      "url": "https://www.1717yun.com/jx/ty.php?url="
+    },
+    {
+      "name": "4K",
+      "url": "https://jx.4kdv.com/?url=",
+      "t": "m"
+    },
+    {
+      "name": "8090",
+      "url": "https://www.8090g.cn/?url="
+    }
+  ]
+}
+
