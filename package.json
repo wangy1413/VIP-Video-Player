@@ -6,7 +6,6 @@
   "dependencies": {
     "@electron/remote": "^1.1.0",
     "bulma-fluent": "^0.4.3",
-    "electron": "^18.0.4",
     "material-design-icons": "^3.0.1",
     "vue": "^2.6.12",
     "vue-electron": "^1.0.6",
@@ -95,12 +94,12 @@
     "pack:renderer": "webpack --mode=production --config _scripts/webpack.renderer.config.js",
     "pack:web": "webpack --mode=production --config _scripts/webpack.web.config.js",
     "pack:workers": "webpack --mode=production --config _scripts/webpack.workers.config.js",
-    "postinstall": "electron-rebuild",
     "prettier": "prettier --write \"{src,_scripts}/**/*.{js,ts,vue}\"",
     "rebuild:electron": "run-s electron-builder-install electron-rebuild",
     "rebuild:node": "npm rebuild",
     "release": "run-s test build",
     "test": "run-s rebuild:node pack:workers jest",
-    "test:watch": "run-s rebuild:node pack:workers jest:watch"
+    "test:watch": "run-s rebuild:node pack:workers jest:watch",
+    "postinstall": " electronic -builder install-app-deps"
   }
 }
