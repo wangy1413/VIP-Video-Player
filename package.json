@@ -69,12 +69,12 @@
   "license": "MIT",
   "main": "./dist/main.js",
   "name": "vue-electron-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "productName": "VIP Video Player",
   "repository": {
     "type": "git",
-    "url": "git+https://gitee.com/yige001/VIP-Video-Player.git"
+    "url": "git+https://github.com/wangy1413/VIP-Video-Player.git"
   },
   "scripts": {
     "build": "run-s rebuild:electron pack build-release",
