@@ -9,7 +9,7 @@
 ### 克隆仓库
 
 ```sh
-git clone https://gitee.com/yige001/VIP-Video-Player.git
+git clone https://github.com/wangy1413/VIP-Video-Player.git
 ```
 
 ### 安装依赖

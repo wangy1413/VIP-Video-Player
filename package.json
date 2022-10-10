@@ -1,7 +1,7 @@
 {
-  "author": "yige001 <1580229949@qq.com>",
+  "author": "wangy1413 <1580229949@qq.com>",
   "bugs": {
-    "url": "https://gitee.com/yige001/VIP-Video-Player/issues"
+    "url": "https://github.com/wangy1413/VIP-Video-Player/issues"
   },
   "dependencies": {
     "@electron/remote": "^1.1.0",
